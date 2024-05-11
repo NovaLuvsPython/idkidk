@@ -1,0 +1,11 @@
+How does it work?
+
+It uses a lot of proxies to check to check random generated codes,
+if its Invalid it skips and if its a Valid one it saves the code in Valid.txt
+
+Important: turn off any secuity if you have them activated because it can stop the generating,
+procces and skip Valid nitro codes.
+
+-- Extra --
+Rate: 100 scans per sec
+Valid Chance: 1 valid per 2 hrs
